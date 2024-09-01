@@ -75,8 +75,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Nitin Attri** - [GitHub](https://github.com/technicalattri)
-- **Komal0x01** - [GitHub](https://github.com/Komal0x01)
+- **Nitin Attri** - [GitHub](https://github.com/technicalattri) | [LinkedIn](https://www.linkedin.com/in/technicalattri/)
+- **Komal0x01** - [GitHub](https://github.com/Komal0x01) | [LinkedIn](https://www.linkedin.com/in/komal-sharma-8335a6285)
 
 ## Acknowledgments
 
